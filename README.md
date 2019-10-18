@@ -1,2 +1,2 @@
 # hacktoberfest
-YEAH I have taken the Hacktoberfest challenge
+YEAH Thats right! I have taken the Hacktoberfest challenge
